@@ -1,1 +1,21 @@
+Public Invention project #52:
+
 A DIY approach to the design and fabrication of Patient Inflating Valves
+By: Avinash Baskaran and Robert L. Read
+
+
+Previous extensive reviews of medical literature have led to a working definition of the "patient inflating valve" as a one-way valve that closes to enable
+lung inflation and opens to allow exhalation and spontaneous breathing [1]. 
+
+We have designed a low cost patient inflating valve using simple 3D printed parts, a $12 electric solenoid actuator and a microcontroller. There are, of 
+course, many factors to consider in designing such valves, many of which have been codified by national regulatory agencies dealing with health and medical 
+technologies, however we sought to optimize quick and simple fabrication. 
+
+
+[cad figure here]
+
+With two standard 22 millimeter female ports matching ventilaotr compatible end connections
+
+
+
+[1] - https://journals.sagepub.com/doi/pdf/10.1177/0310057X1304100206

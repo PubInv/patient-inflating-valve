@@ -6,17 +6,23 @@ By: Avinash Baskaran and Robert L. Read
 
 
 Introduction:
-In the immediate response to the global ventilator shortage percipitated by the COVID-19 crisis, thousands of engineers and medical professionals organized 
-independently to produce and distribute open-source ventilators [2]. While few new and truly open sourced designs have been deployed in hospitals and medical
-environments, the substantial momentum of the engineering and medical communities around this problem presents the possibility of addressing such challenges 
-in both the long and short term. Any device claiming to be able to provide safe, reliable and effective invasive and non-invasive mechanical ventilation to 
-patients should provide a multitude of features, many of which have been set forth by relevant regulatory agencies. One such criteria, which is not always 
-well-addressed is the need to support spontaneous breathing.
-
-// I FEEL MORE CONSIDERATION TO THE DISTINCITON BETWEEN INVASIVE AND NON-INVASIVE VENTILATION IS NEEDED; 
-// NEED TO THINK ON THIS MORE
+In an immediate response to the global ventilator shortage percipitated by the COVID-19 crisis, thousands of engineers and medical professionals organized 
+independently to produce and globally distribute open-source ventilators [2]. While few truly open source designs have been deployed in hospitals and medical
+environments, the mobilization and momentum of the "maker" community around this problem give credence ot the distributed, open-source model of addressing medical
+challenges in both the long and short term. Modularity is one key element of this approach: groups endeavouring to produce open-source technologies, particularly
+devices as complex and multifaceted as ventilators, can focus on producing adaptable parts of the device rather than end-user devices. This allows hospitals and 
+end users to replace component systems of such devices when they fail, where the exact replacements may often be subject distribution delays and import/export 
+restrictions during times of crisis, with equivalent alternatives to get whole device operational more quickly. To both encourage a modular appraoch to open source
+ventilator designs as well as to provide such a quickly reproducible module, we have designed, fabricated and tested a ventilator "Patient Inflating Valve",
+which is herein describe.
 
 Motivation:
+Any device claiming to be able to provide safe, reliable and effective invasive and non-invasive mechanical ventilation to patients should provide a multitude of 
+features, many of which have been set forth by relevant regulatory agencies. One such criteria, which is not always well-addressed is the need to support 
+spontaneous breathing.
+
+// NEED TO ADD A DESCRIPTION OF THE ROLE OF PIVs IN INVASIVE AND NON-INVASIVE VENTILATORS
+
 While some of such ventilators have been designed to include special consideration for the support of patient spontaneous breathing, often, by the inclusion 
 of controlled mechanical valves, many prominent commercial and open-source ventilaors fail to explicitly support spontaneous breathing in their designs [2][4]. 
 The inclusion of a patient inflating valve, defined as a one-way valve that closes to enablelung inflation and opens to allow exhalation and spontaneous 

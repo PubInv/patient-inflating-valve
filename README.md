@@ -5,7 +5,18 @@
 This uses the [CERN Open Hardware Strong Reciprocity License](https://ohwr.org/cern_ohl_s_v2.pdf).
 
 # Description
-We have designed a low cost patient inflating valve using simple 3D printed parts, a thin sheet of polypropylene, a $12 electric solenoid actuator and a microcontroller. With some modification and customization, the valve could be deployed in circumstances where spontaneous breathing is desired but not supported by the available ventilation technology. With two standard 22 millimeter ports, the device is compatible with many ventilator designs. Its simple design and construction make it easy highly adaptable. 
+We have designed a low cost patient inflating valve using simple 3D printed parts, a thin sheet of polypropylene, a $12 electric solenoid actuator and a microcontroller. With some modification and customization, the valve could be deployed in circumstances where spontaneous breathing is desired but not supported by the available ventilation technology. With two standard 22 millimeter ports, the device is compatible with many ventilator designs. Its simple design and construction make it easy highly adaptable.
+# *Images
+
+![](images/image1.png)
+
+Figure 1: valve front view
+
+
+![](images/image5.png)
+
+Figure 1: valve side view
+
 
 # Motivation
 In an immediate response to the global ventilator shortage percipitated by the COVID-19 crisis, thousands of engineers and medical professionals organized independently to design and globally distribute low-cost "pandemic ventilators" [2]. While few such devices have successfully been deployed in hospitals and medical environments, the mobilization and momentum of the "maker" community around this problem helped prove and promote the cause of distributed, open-source efforts to 
@@ -28,13 +39,6 @@ valve, defined as a one-way valve that closes to enable lung inflation and opens
 can achieved endeavour to support spontaneous breathing. 
 
 *"Patient inflating valves combined with self-inflating bags are known to all anaesthetists as resuscitation devices and are familiar as components of draw-over anaesthesia systems. Their variants are also commonplace in transfer and home ventilators. However, the many variations in structure and function have led to difficulties in their optimal use, definition and classification"* - [5]
-
-![](images/image1.png)
-Figure 1: valve front view
-
-
-![](images/image5.png)
-Figure 1: valve side view
 
 **Video demonstrating functionality *https://photos.app.goo.gl/HCpLDrxADaKFfpps9
 

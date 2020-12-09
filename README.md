@@ -5,7 +5,8 @@
 This uses the [CERN Open Hardware Strong Reciprocity License](https://ohwr.org/cern_ohl_s_v2.pdf).
 
 # Description
-We have designed a low cost patient inflating valve using simple 3D printed parts, a thin sheet of polypropylene, a $12 electric solenoid actuator and a microcontroller. With some modification and customization, the valve could be deployed in circumstances where spontaneous breathing is desired but not supported by the available ventilation technology. With two standard 22 millimeter ports, the device is compatible with many ventilator designs. Its simple design and construction make it easy highly adaptable.
+We have designed a low cost patient inflating valve using simple 3D printed parts, a thin sheet of polypropylene, a $12 electric solenoid actuator and a microcontroller. With some modification and customization, the valve could be deployed in circumstances where spontaneous breathing is desired but not supported by the available ventilation technology. With two standard 22 millimeter ports, the device is compatible with many ventilator designs. One simply prints the parts, attach the solenoid stopper to the end of a 12v solenoid actuator, place the solenoid actuator in the valve housing, and place and secure the solenoid cap behind the actuator, routing cables through the cap. We found that by securing a small 2cm x 2cm piece of flexible polypropylene sheeting on top of the stopper using a mild adhesive, that valve leakage could be minimzied. The valve's simple design and construction make it easy to manufacture, adjust and adapt.
+
 # *Images
 
 ![](images/image1.png)

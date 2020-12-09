@@ -40,7 +40,7 @@ can achieved endeavour to support spontaneous breathing.
 
 *"Patient inflating valves combined with self-inflating bags are known to all anaesthetists as resuscitation devices and are familiar as components of draw-over anaesthesia systems. Their variants are also commonplace in transfer and home ventilators. However, the many variations in structure and function have led to difficulties in their optimal use, definition and classification"* - [5]
 
-**Video demonstrating functionality *https://photos.app.goo.gl/HCpLDrxADaKFfpps9
+**Video demonstrating functionality *https://photos.app.goo.gl/HCpLDrxADaKFfpps9**
 
 
 Conclusion and Future Work:

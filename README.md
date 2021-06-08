@@ -5,7 +5,7 @@
 This uses the [CERN Open Hardware Strong Reciprocity License](https://ohwr.org/cern_ohl_s_v2.pdf).
 
 # Description
-We have designed a low cost patient inflating valve using simple 3D printed parts, a thin sheet of polypropylene, a $12 electric solenoid actuator and a microcontroller. With some modification and customization, the valve could be deployed in circumstances where spontaneous breathing is desired but not supported by the available ventilation technology. With two standard 22 millimeter ports, the device is compatible with many ventilator designs. One simply prints the parts, attach the solenoid stopper to the end of a 12v solenoid actuator, place the solenoid actuator in the valve housing, and place and secure the solenoid cap behind the actuator, routing cables through the cap. We found that by securing a small 2cm x 2cm piece of flexible polypropylene sheeting on top of the stopper using a mild adhesive, that valve leakage could be minimzied. The valve's simple design and construction make it easy to manufacture, adjust and adapt.
+We have designed a low cost patient inflating valve using simple 3D printed parts, a thin sheet of polypropylene, a $12 electric solenoid actuator and a microcontroller. With some modification and customization, the valve could be deployed in circumstances where spontaneous breathing is desired but not supported by the available ventilation technology. With two standard 22 millimeter ports, the device is compatible with many ventilator designs. One simply prints the parts, attach the solenoid stopper to the end of a 12v solenoid actuator, place the solenoid actuator in the valve housing, and place and secure the solenoid cap behind the actuator, routing cables through the cap. We found that by securing a small 2cm x 2cm piece of flexible polypropylene sheeting on top of the stopper using a mild adhesive, that valve leakage could be minimized. The valve's simple design and construction make it easy to manufacture, adjust and adapt.
 
 # *Images
 
@@ -20,10 +20,10 @@ Figure 1: valve side view
 
 
 # Motivation
-In an immediate response to the global ventilator shortage percipitated by the COVID-19 crisis, thousands of engineers and medical professionals organized independently to design and globally distribute low-cost "pandemic ventilators" [2]. While few such devices have successfully been deployed in hospitals and medical environments, the mobilization and momentum of the "maker" community around this problem helped prove and promote the cause of distributed, open-source efforts to 
+In an immediate response to the global ventilator shortage precipitated by the COVID-19 crisis, thousands of engineers and medical professionals organized independently to design and globally distribute low-cost "pandemic ventilators" [2]. While few such devices have successfully been deployed in hospitals and medical environments, the mobilization and momentum of the "maker" community around this problem helped prove and promote the cause of distributed, open-source efforts to 
 address critically emergent global challenges. 
 
-Modularity is a key element of this approach: groups endeavouring to solve problems like the 2020 ventilator shortage can focus on producing supply-chain resilitent stand-alone
+Modularity is a key element of this approach: groups endeavouring to solve problems like the 2020 ventilator shortage can focus on producing supply-chain resilient stand-alone
 modules rather than the complete ventilator, reducing the engineering burden on each group. By working in communication with other teams, groups of teams can produce all the
 functional modules of a ventilator or other compound medical device, seek approval and manufacturing support and reduce the time it takes to get devices into clinicians' hands.
 Most importantly, clinicians can then be more able to replace damaged or difficult-to-obtain modules of compound devices with approved modular substitutes, enhancing rapid 
@@ -35,7 +35,7 @@ self-contained modular "Patient Inflating Valve" with standard 22 mm ports, desi
 Any device claiming to be able to provide safe, reliable and effective invasive and non-invasive mechanical ventilation to patients should provide a multitude of features, 
 many of which have been set forth by relevant regulatory agencies. One such criteria, which is not always well-addressed is the need to support spontaneous breathing. While 
 some of such ventilators have been designed to include special consideration for the support of patient spontaneous breathing, often by the inclusion of controlled mechanical 
-valves, many prominent commercial and open-source ventilaors fail to explicitly support spontaneous breathing in their designs [2][4]. The inclusion of a patient inflating 
+valves, many prominent commercial and open-source ventilators fail to explicitly support spontaneous breathing in their designs [2][4]. The inclusion of a patient inflating 
 valve, defined as a one-way valve that closes to enable lung inflation and opens to allow exhalation and spontaneous breathing [1], is one way a mechanical ventilator 
 can achieved endeavour to support spontaneous breathing. 
 
